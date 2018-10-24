@@ -1,0 +1,8 @@
+﻿<Window x:Class="GetDuration.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GetDuration" Height="200" Width="320">
+    <Grid>
+        <Button Content="Select a File..." Width="120" Height="32" Click="OnSelectFileClicked"/>
+    </Grid>
+</Window>
